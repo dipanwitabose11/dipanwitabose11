@@ -7,7 +7,7 @@
 
 [![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=900&color=8E44AD&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Hi%2C+I+am+Dipanwita+Bose)](https://git.io/typing-svg)
 
-[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=800&color=C2185B&center=true&vCenter=true&width=900&height=45&lines=Ph.D.+Candidate+in+Mathematics+%40+University+of+Houston;Operator+Theory+%C2%B7+Harmonic+Analysis+%C2%B7+Stochastic+Inference;Learning+hidden+Markov+dynamics+from+censored+data;Leo+%E2%99%8C+%C2%B7+AMS+Chapter+President+%C2%B7+Loves+teaching)](https://git.io/typing-svg)
+[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=800&color=C2185B&center=true&vCenter=true&width=900&height=45&lines=Ph.D.+Candidate+in+Mathematics+%40+University+of+Houston;Operator+Theory+%C2%B7+Harmonic+Analysis+%C2%B7+Stochastic+Inference;Learning+hidden+Markov+dynamics+from+censored+data;%E2%99%8C+%C2%B7+AMS+Chapter+President+%C2%B7+Loves+teaching)](https://git.io/typing-svg)
 
 ![Women in Mathematics](https://img.shields.io/badge/Women_in_Mathematics-C2185B?style=for-the-badge)
 ![University of Houston](https://img.shields.io/badge/University_of_Houston-C8102E?style=for-the-badge)
