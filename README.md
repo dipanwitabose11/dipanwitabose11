@@ -7,8 +7,9 @@
 
 [![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=900&color=8E44AD&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Hi%2C+I+am+Dipanwita+Bose)](https://git.io/typing-svg)
 
-[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=800&color=C2185B&center=true&vCenter=true&width=900&height=45&lines=Ph.D.+Candidate+in+Mathematics+%40+University+of+Houston;Operator+Theory+%C2%B7+Harmonic+Analysis+%C2%B7+Stochastic+Inference;Learning+hidden+Markov+dynamics+from+censored+data;%E2%99%8C+%C2%B7+AMS+Chapter+President+%C2%B7+Loves+teaching)](https://git.io/typing-svg)
+[![Roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=800&color=C2185B&center=true&vCenter=true&width=900&height=45&lines=Ph.D.+Candidate+in+Mathematics+%40+University+of+Houston;Operator+Theory+%C2%B7+Harmonic+Analysis+%C2%B7+Stochastic+Inference;Learning+hidden+Markov+dynamics+from+censored+data;Leo+%E2%99%8C+%C2%B7+AMS+Chapter+President+%C2%B7+Loves+teaching)](https://git.io/typing-svg)
 
+![Leo](https://img.shields.io/badge/%E2%99%8C_Leo-9B59B6?style=for-the-badge)
 ![Women in Mathematics](https://img.shields.io/badge/Women_in_Mathematics-C2185B?style=for-the-badge)
 ![University of Houston](https://img.shields.io/badge/University_of_Houston-C8102E?style=for-the-badge)
 ![Graduating Aug 2026](https://img.shields.io/badge/Graduating_Aug_2026-2E8B57?style=for-the-badge)
@@ -87,6 +88,10 @@ way to noisy real-world data.
 | [dirac-predator-prey](https://github.com/dipanwitabose11/dirac-predator-prey) | Algae and rotifer ecology | Real data, Doob and Schrodinger bridges, error bounds |
 | [dirac-rotational-vector-field](https://github.com/dipanwitabose11/dirac-rotational-vector-field) | The field b(x,y) = (-y, x) | Analytic ground truth, recovery to machine precision |
 | [dirac-yellow-cab-dynamics](https://github.com/dipanwitabose11/dirac-yellow-cab-dynamics) | NYC yellow taxi, 30 zones | Real mobility data with no known generator |
+
+> While the underlying papers are in preparation, the code and data for these
+> projects are kept private. If you would like access, please email me at
+> dbose2@cougarnet.uh.edu and I am glad to share.
 
 The predator-prey and yellow taxi studies feed a paper I am preparing, "Inferring hidden
 trajectories in endpoint-only Markov jump processes: regularized likelihood with
